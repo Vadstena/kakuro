@@ -1,6 +1,6 @@
 # Kakuro Puzzle Solver
 
-A Kakuro Puzzle solver witten in Prolog, in pure Logic Programming fashion.
+A Kakuro Puzzle solver witten in Prolog, in pure declarative Logic Programming fashion.
 
 ## Description
 
