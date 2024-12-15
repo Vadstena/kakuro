@@ -8,7 +8,7 @@ Format of a Puzzle: a list of sublists, where each sublist is a row of the Puzzl
 
 ![Puzzle representation](figures/puzzle_representation.jpg)
 
-[puzzles_publicos.pl]([puzzles_publicos.pl]) contains more examples.
+[puzzles_publicos.pl](puzzles_publicos.pl) contains more examples.
 
 ## Getting Started
 
